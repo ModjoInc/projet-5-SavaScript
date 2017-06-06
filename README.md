@@ -1,2 +1,2 @@
-# projet-5-SavaScript
+# projet-5-chavaScript
 Javascript
